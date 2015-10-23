@@ -5,3 +5,7 @@
 
 ##课程周记与到课率
 https://github.com/nju-teaching/computational-advertising/wiki
+
+##遇到问题，请点击本页面右侧issues提问
+
+https://github.com/nju-teaching/computational-advertising/issues
