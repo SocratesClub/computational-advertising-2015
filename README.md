@@ -5,7 +5,7 @@
 
 | week          | topic         | note  |
 | ------------- |:-------------:| -----:|
-|1              | 课程简介            |    https://github.com/data-journalism/djclass2015   |
+|1              | 课程简介            |    https://github.com/nju-teaching/computational-advertising-2015/   |
 |2              | 计算传播学导论I	    |        |
 |3              | 计算传播学导论II              |      |
 |4              | 传播网络简介+github	     |  第一次作业   |
